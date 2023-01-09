@@ -1,0 +1,18 @@
+roles and resp of devops as per daigram.
+
+1. Maintaining source code, creating branhes, access control of the repository.
+2. Building Source code and pushing the jars to the artifactory.
+3. artifactory management.
+4. Creating War/Ear using maven and deploying on the server in various envs.
+5. Setting up tools and required infrastructure
+6. Monitoring and Troubleshooting of application during builds and deployments
+7. Application Server Management such as its maintenance, installing patches, upgrading versions, log monitoring etc.
+8. Creating virtual machines on cloud, setting them up based on the requirements. for eg, server installation, adding storage etc.
+9. Monitoring the processes during the entire build and deployment lifecycle.
+10. Coordination and communication within the team and with customers
+11. Selecting and deploying appropriate CI/CD tools
+12. Encouraging and building automated processes wherever possible
+13. Providing support to cross teams such as Performance team, Dev team, IT operations team.
+14. As a Devops, once the code is pushed in git repo, Dev team shares updated pom.xml file with me and then we build the application and we maintain the latest jars in maven artifactory.
+	after that we create the war/ear , make envoinment specific changes to the application and deploy on respective envs such as qa/dev.
+15. Making Sure all the servers are up and running whenever needed and ensuring no to minimum downtime.

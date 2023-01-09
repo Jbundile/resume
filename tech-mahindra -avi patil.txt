@@ -1,0 +1,17 @@
+1) introduce urself
+2)what is master-slave architecture
+3) how can we configure master to slave
+4) how eill you configure ssh while configure master to slave
+5)where could we put public key & private kry while coneting master to slave
+6)i am creating pipeline ,then what are the stages
+7) if i want o do a sonarcueb job on slave(1) & other job on slave slave (2) then what is the procedure & write a groovy for it
+8)diff between copy & add
+9) diff between cmd & entrypoint
+10)what is hypeervisiour
+11) in docker we dont need hypersiour ,why?
+12) what are the different type of deployment strategy?
+13) what is bluegreen?
+14) what is the complete procedure to shedule a dail task?
+15)what is complete procedure of deployment (which methodology is used)
+16)what is size of ur sprint?
+17) size of scrume is fixed or not ?
